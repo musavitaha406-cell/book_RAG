@@ -1,0 +1,6 @@
+openai
+numpy
+pymupdf
+# Only needed to build the database from a scanned PDF (OCR):
+pytesseract
+pillow
